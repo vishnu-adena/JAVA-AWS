@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.adena</groupId>
-    <artifactId>aws11</artifactId>
+    <artifactId>awsjavacicd</artifactId>
     <version>0.0.1</version>
     <name>aws11</name>
     <description>aws11</description>
